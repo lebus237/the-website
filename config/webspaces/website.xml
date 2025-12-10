@@ -9,7 +9,8 @@
 
     <localizations>
         <!-- See: http://docs.sulu.io/en/latest/book/localization.html how to add new localizations -->
-        <localization language="en" default="true"/>
+        <localization language="fr" default="true"/>
+        <localization language="en"/>
     </localizations>
 
     <default-templates>
@@ -33,8 +34,8 @@
         <contexts>
             <context key="main">
                 <meta>
+                    <title lang="fr">Menu Principal</title>
                     <title lang="en">Main Navigation</title>
-                    <title lang="de">Hauptnavigation</title>
                 </meta>
             </context>
         </contexts>
