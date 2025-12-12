@@ -59,5 +59,4 @@ phpstan.neon
 /.twig-cs-fixer.php
 /.twig-cs-fixer.cache
 ###< vincentlanglet/twig-cs-fixer ###
-/.env
 /.env.dev
