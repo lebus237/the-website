@@ -1,5 +1,6 @@
 {
-    "license": "proprietary",
+    "name": "sulu/skeleton",
+    "license": "MIT",
     "type": "project",
     "homepage": "https://sulu.io/",
     "keywords": [
@@ -28,6 +29,7 @@
         "php": "^8.2",
         "ext-ctype": "*",
         "ext-iconv": "*",
+        "ext-intl": "*",
         "cmsig/seal-loupe-adapter": "^0.12.2",
         "doctrine/doctrine-bundle": "^2.13",
         "doctrine/doctrine-fixtures-bundle": "^3.6 || ^4.0",
